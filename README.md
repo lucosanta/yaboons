@@ -56,6 +56,7 @@ By now, this library may need some improvement which could be:
 * *Evaluation part could be extended*. This library actually works only with deterministic and synchronous Boolean Networks as my project require them. Looking at [this paper](https://arxiv.org/ftp/cs/papers/0208/0208001.pdf), there are many other types which could be implemented.
 * *CUDA implementation*. It is an improvement that may not be useful for the purposes, but it could help me to learng GPGPU programming
 
+Please take a look to [Roadmap project](https://github.com/lucosanta/yaboons/projects/1) to keep you updated about modification that are in progress or not.
 ## Versions
 
 ### V1.0.0 - First release - 16th May 2018
